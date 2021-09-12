@@ -29,11 +29,12 @@
 - 프로토콜 상속
 - AnyObject
 - 확장을 통해 추가할 수 있는 것들(연산 속성(Computed Properties), 이니셜라이저(Initializer), 메소드(Methods), 서브스크립트(Subscripts), 중첩 타입(Nested Types))
-10. 싱글턴 패턴 & 델리게이트 패턴
+9. 싱글턴 패턴 & 델리게이트 패턴
 - 해당 패턴을 사용하는 이유
-- 
-12. 고차함수
-13. 에러처리
+- 해당 패턴의 장단점
+10. 고차함수
+- map, reduce, filter, compactMap
+11. 에러처리
 #### 3주차
 11. VC 생명주기 & 앱 생명주기
 12. Delegate, Notification, KVO
