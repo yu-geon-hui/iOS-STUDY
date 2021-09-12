@@ -10,8 +10,11 @@
 - 둘의 차이
 - static 키워드
 5. 인스턴스 생성 / 생성자(designated, convenience, required)
+- 기본 이니셜라이저 VS 멤버와이즈 이니셜라이저
+- 이니셜라이저 실패(init?)
 - 
 7. 열거형
+- CaseIterable
 #### 2주차
 5. 옵셔널
 6. 클로저 
