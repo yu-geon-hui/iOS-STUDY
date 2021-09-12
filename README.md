@@ -54,7 +54,7 @@
 - 클로저 내부에서 일어난 강한순환참조 및 해결법(약한참조,)
 16. GCD
 - dispatch queue 종류
-- dispatch queue 타입
+- dispatch queue 타입(feat.qos)
 - nsopearation queue와 gcd queue 차이
 
 ## RxSwift
