@@ -43,7 +43,7 @@
 11. VC 생명주기 & 앱 생명주기
 - vc 생명주기 + (다른 뷰로 왔다 올 때 데이터 업데이트시,)viewWillApear와 Notification 사용 차이
 - 앱 생명주기(case별로 어떤 주기를 거치는지 공부)
-12. Delegate, Notification, KVO
+12. Delegation, Notification, KVO
 - 각 장단점 + Noti와 KVO(언제 어떤걸 사용해야 하는지)
 13. Codable
 - Encodable, Decodable
