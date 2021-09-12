@@ -1,6 +1,6 @@
 ## Swift 기본문법
 
-#### 1주차
+#### 1주차(~9/18)
 1. 구조체 & 클래스 (feat.상속)
   - 인스턴스 생성 및 초기화
   - [서브클래싱 & overriding & overloading](https://khyeji98.github.io/post/2020/02/16/inheritance.html)
@@ -16,7 +16,7 @@
 - 셋의 차이와 특징
 4. 열거형
 - CaseIterable
-#### 2주차
+#### 2주차(~9/25)
 5. 옵셔널
 - 추출 : 강제추출, 옵셔널 바인딩, 암시적 추출(!)
 - 옵셔널 체이닝
@@ -39,7 +39,7 @@
 - throw
 - do-catch
 - guard
-#### 3주차
+#### 3주차(~10/2)
 11. VC 생명주기 & 앱 생명주기
 - vc 생명주기 + (다른 뷰로 왔다 올 때 데이터 업데이트시,)viewWillApear와 Notification 사용 차이
 - 앱 생명주기(case별로 어떤 주기를 거치는지 공부)
