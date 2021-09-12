@@ -12,7 +12,8 @@
 5. 인스턴스 생성 / 생성자(designated, convenience, required)
 - 기본 이니셜라이저 VS 멤버와이즈 이니셜라이저
 - 이니셜라이저 실패(init?)
-- 
+- 이니셜라이저 생성 조건
+- 셋의 차이와 특징
 7. 열거형
 - CaseIterable
 #### 2주차
