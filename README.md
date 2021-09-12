@@ -43,10 +43,11 @@
 11. VC 생명주기 & 앱 생명주기
 - vc 생명주기 + (다른 뷰로 왔다 올 때 데이터 업데이트시,)viewWillApear와 Notification 사용 차이
 - 앱 생명주기(case별로 어떤 주기를 거치는지 공부)
-13. Delegate, Notification, KVO
-14. Codable
-15. ARC
-16. GCD
+12. Delegate, Notification, KVO
+- 각 장단점 + 차이점
+15. Codable
+16. ARC
+17. GCD
 
 ## RxSwift
 
