@@ -45,9 +45,10 @@
 - 앱 생명주기(case별로 어떤 주기를 거치는지 공부)
 12. Delegate, Notification, KVO
 - 각 장단점 + Noti와 KVO(언제 어떤걸 사용해야 하는지)
-15. Codable
-16. ARC
-17. GCD
+13. Codable
+- Encodable, Decodable
+14. ARC
+15. GCD
 
 ## RxSwift
 
