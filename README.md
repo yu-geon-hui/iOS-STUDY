@@ -53,6 +53,9 @@
 - 해결법 : 약한참조 + 미소유참조
 - 클로저 내부에서 일어난 강한순환참조 및 해결법(약한참조,)
 16. GCD
+- dispatch queue 종류
+- dispatch queue 타입
+- nsopearation queue와 gcd queue 차이
 
 ## RxSwift
 
