@@ -48,7 +48,11 @@
 13. Codable
 - Encodable, Decodable
 14. ARC
-15. GCD
+- 동작방법?순서?
+- 강한순환참조 + 문제점
+- 해결법 : 약한참조 + 미소유참조
+- 
+16. GCD
 
 ## RxSwift
 
