@@ -3,11 +3,13 @@
 #### 1주차
 1. 구조체 & 클래스 (feat.상속)
   - 인스턴스 생성 및 초기화
+  - overriding & overloading
   - 클래스는 deinit도
   - 구조체와 클래스 차이(쓰임의 차이)
 3. 인스턴스 메소드 & 타입 메소드
-4. 인스턴스 생성 / 생성자(designated, convenience, required)
-5. 열거형
+- 
+5. 인스턴스 생성 / 생성자(designated, convenience, required)
+6. 열거형
 #### 2주차
 5. 옵셔널
 6. 클로저 
