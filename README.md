@@ -21,8 +21,15 @@
 
 ## RxSwift
 
-## SwiftUI
+#### 1주차
+1. Observable & Subject & Relay
+#### 2주차
+2. Operators 1-4/10
+#### 3주차
+3. Operators 5-10/10
+#### 4주차
+4. Single & Scheduler
 
-1. SwiftUI를 위한 클린 아키텍처
+## SwiftUI
 
 ## ETC
